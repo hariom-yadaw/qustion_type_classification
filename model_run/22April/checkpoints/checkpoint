@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/hariom/projectsCNX/ai_nlp/query_classification/model_run/22April/checkpoints/model-5850"
+all_model_checkpoint_paths: "/home/hariom/projectsCNX/ai_nlp/query_classification/model_run/22April/checkpoints/model-5650"
+all_model_checkpoint_paths: "/home/hariom/projectsCNX/ai_nlp/query_classification/model_run/22April/checkpoints/model-5700"
+all_model_checkpoint_paths: "/home/hariom/projectsCNX/ai_nlp/query_classification/model_run/22April/checkpoints/model-5750"
+all_model_checkpoint_paths: "/home/hariom/projectsCNX/ai_nlp/query_classification/model_run/22April/checkpoints/model-5800"
+all_model_checkpoint_paths: "/home/hariom/projectsCNX/ai_nlp/query_classification/model_run/22April/checkpoints/model-5850"
